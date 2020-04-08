@@ -2,7 +2,7 @@ import json
 import os
 
 # load json file
-with open('data/vehicles.json') as f:
+with open('vehicles.json') as f:
     data = json.load(f)
 
 # reservation list
