@@ -1,0 +1,26 @@
+[
+    {
+        "brand": "BMW",
+        "type": "Model:3.18 Year:2018",
+        "amount": 8,
+        "daily_price": 140
+    },
+    {
+        "brand": "BMW",
+        "type": "Model:5.20 Year:2017",
+        "amount": 3,
+        "daily_price": 210
+    },
+    {
+        "brand": "Mercedes",
+        "type": "Model:A180 Year:2019",
+        "amount": 4,
+        "daily_price": 120
+    },
+    {
+        "brand": "Volkswagen",
+        "type": "Model:Passat Year:2014",
+        "amount": 3,
+        "daily_price": 120
+    }
+]
